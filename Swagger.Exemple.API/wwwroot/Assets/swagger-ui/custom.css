@@ -1,0 +1,10 @@
+﻿body {
+}
+
+#swagger-ui  div.topbar {
+    background-color: #EC7000;
+}
+#swagger-ui > section > div.topbar > div > div > a > img{
+    height:60px;
+}
+
